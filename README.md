@@ -1,4 +1,4 @@
-# Java2d - Graphics Layers Framework
+# Java2D - Graphics Layers Framework
 This is a capture of the original Java2D Graphics Layers Framework developed by Vincent Hardy and published in 1999 at java.sun.com.
 
 The project has been restructured as a Maven project to build jphsd-glf.jar and uses version 1.8 of Java. Given the age of the code, copious compilation warnings are generated.
