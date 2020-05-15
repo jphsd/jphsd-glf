@@ -1,0 +1,16 @@
+class=com.sun.glf.demos.gallery.ShadowStandOut
+BackgroundColor=e6e6ffff
+BrightnessScale=1.6
+Font=Impact MT/PLAIN/100
+Glyph=26 serif/BOLD/180
+GlyphAdjustment=14 28
+GlyphAnchor=Bottom Left
+ImageFile=file:res/images/circa/daVinci/Renai_41.jpg
+ShadowBlurRadius=8
+ShadowColor=000000ff
+Text=& volution
+TextAdjustment=10 20
+TextAnchor=Right
+TextRotate=90.0
+ThickShadowOffset=4
+ThinShadowOffset=-2

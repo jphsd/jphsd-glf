@@ -1,0 +1,4 @@
+TextLayout objects are constructed from styled text, but they do not retain a reference to their source text. Thus, changes in the text previously used to generate a TextLayout do not affect the TextLayout. 
+
+Three methods on a TextLayout object (getNextRightHit, getNextLeftHit, and hitTestChar) return instances of TextHitInfo. The offsets contained in these TextHitInfo objects are relative to the start of the TextLayout, not to the text used to create the TextLayout.
+Similarly, TextLayout methods that accept TextHitInfo instances as parameters expect the TextHitInfo object's offsets to be relative to the TextLayout, not to any underlying text storage model. 

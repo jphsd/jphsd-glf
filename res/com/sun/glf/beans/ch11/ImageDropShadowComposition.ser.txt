@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.ImageDropShadowComposition
+ImageFile=file:res/images/cpio/phon01fl.jpg
+ImageMaskFile=file:res/images/cpio/phon01fl_mask.jpg
+ImageTint=8ea1ccff
+Label=Call us now!
+LabelBumpAngle=-0.7853982
+LabelColor=000000ff
+LabelFont=Impact MT/PLAIN/25
+LabelHorizontalAdjust=5
+LabelImageGap=10
+Margin=18
+ShadowBlurRadius=6
+ShadowColor=00000094
+ShadowOffset=10 10

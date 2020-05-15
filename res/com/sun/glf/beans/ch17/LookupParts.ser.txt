@@ -1,0 +1,2 @@
+class=com.sun.glf.demos.gallery.LookupParts
+ImageFile=file:res/images/misc/anneSmall.jpg

@@ -1,0 +1,16 @@
+class=com.sun.glf.snippets.CombiningLayers
+BackgroundImageFile=file:res/images/snippets/syberia30v2.jpg
+ImageFile=file:res/images/snippets/vango09.jpg
+ImageMargin=40.0
+ImageMaskFile=file:res/images/snippets/vango09OutlineMask.jpg
+ImageShadowMargin=80
+ShadowColor=00000097
+ShadowOffsetX=10.0
+ShadowOffsetY=10.0
+ShadowRadius=5
+Text=Layers
+TextFillColor=ff993385
+TextFont=Impact MT/BOLD/50
+TextMargins=8.0
+TextOutlineColor=cc3300ff
+TextOutlineWidth=1.0

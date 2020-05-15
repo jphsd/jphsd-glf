@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.BacklitGlowMenuComposition
+BackgroundImageFile=file:res/images/syberia/syberia30.jpg
+BacklitColor=00000080
+BacklitRadius=20
+GlowScale=6.0
+ImageFile=file:res/images/cpio/type01fl.jpg
+ImageMaskFile=file:res/images/cpio/type01fl_mask.jpg
+Margins=30 30
+MenuImageGap=30
+MenuLabels=Home|Products|Site Map|Contact Us|Search|Partners
+MenuLabelsAlignment=Left
+MenuLabelsFont=Impact MT/PLAIN/30
+MenuLabelsScale=2.1
+TextureMaskColor=000000ff

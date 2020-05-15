@@ -1,0 +1,10 @@
+class=com.sun.glf.snippets.UsingLayers
+ImageFile=file:res/images/snippets/vango09.jpg
+MaskImageFile=file:res/images/snippets/vango09mask.jpg
+Text=Frame your pictures
+TextColor=323365ff
+TextFont=Impact MT/PLAIN/30
+TextOutlineColor=000000ff
+TextOutlineWidth=1
+TextMargins=10
+

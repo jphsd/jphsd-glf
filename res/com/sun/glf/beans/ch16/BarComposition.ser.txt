@@ -1,0 +1,17 @@
+class=com.sun.glf.demos.BarComposition
+BarHeight=200
+BarShadowColor=00000080
+BarWidth=45
+Depth=20.0
+HighlightColor=cce5ffff
+Margins=150 110
+MidtoneColor=5b9899ff
+MidtoneInterval=2.0
+ShadowBlurRadius=6
+ShadowColor=04042dff
+ShadowInterval=2.0
+ShadowOffset=0 15
+ShadowScaleX=1.0
+ShadowScaleY=-0.3
+ShadowShearX=2.0
+ShearAngle=30.0

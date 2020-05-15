@@ -1,0 +1,7 @@
+class=com.sun.glf.snippets.GetSpotLightUsage
+Height=200
+LightColor=ffffffff
+LightIntensity=2.0
+TextureColor=ffcc00ff
+TextureImage=file:res/images/snippets/elevationMap.jpg
+Width=120

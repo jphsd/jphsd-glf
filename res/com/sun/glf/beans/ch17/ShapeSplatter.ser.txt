@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.gallery.ShapeSplatter
+BackgroundColor=7879c6ff
+Glyph=26 Impact MT/PLAIN/150
+GlyphAlphaEndValue=0.2
+GlyphColor=ffffff59
+Margin=100
+NumberOfGlyphs=40
+NumberOfTexts=50
+Size=500 333
+Text=Graphics are|fun!
+TextBaseColor=ff6556ff
+TextColor=4a4b7aff
+TextFont=Impact MT/PLAIN/85
+TextHueEndValue=55.0

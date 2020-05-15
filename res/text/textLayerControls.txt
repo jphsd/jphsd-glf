@@ -1,0 +1,2 @@
+There are several parameters that control the behavior of the TextLayer. 
+Of course, the text and its Font can be set, but you can also define the text alignment and the position of the text block in the Layer Composition it belongs to.

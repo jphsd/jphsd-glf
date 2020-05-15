@@ -1,0 +1,7 @@
+class=com.sun.glf.snippets.GetSunLightUsage
+Height=190
+LightColor=ffffffff
+LightIntensity=1.5
+TextureColor=cca328ff
+TextureImage=file:res/images/snippets/elevationMap.jpg
+Width=160

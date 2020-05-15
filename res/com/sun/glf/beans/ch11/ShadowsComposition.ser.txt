@@ -1,0 +1,10 @@
+class=com.sun.glf.demos.ShadowsComposition
+BackgroundBottomColor=656565ff
+BackgroundTopColor=ffffffff
+ButtonHotColor=ffcc33ff
+ButtonUpColor=7878a0ff
+CastShadowBean=file:res/com/sun/glf/beans/ch11/ShapeCastShadowComposition.ser.txt
+DropShadowBean=file:res/com/sun/glf/beans/ch11/ImageDropShadowComposition.ser.txt
+RecessedShadowBean=file:res/com/sun/glf/beans/ch11/TextRecessedShadowComposition.ser.txt
+ShadowOffsetDown=0 0
+ShadowOffsetUp=5 5

@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.gallery.TextFlowers
+BackgroundColor=000000ff
+BaseColor=993300ff
+BrightnessEnd=1.0
+BrightnessStart=0.1
+FillColor=ffffffff
+Margins=50 50
+NumberOfCycles=4
+NumberOfRotations=1
+NumberOfShapes=40
+StrokeColor=000000ff
+StrokeWidth=4.0
+Text=glf
+TextFont=Curlz MT/PLAIN/100

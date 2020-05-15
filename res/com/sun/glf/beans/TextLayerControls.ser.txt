@@ -1,0 +1,13 @@
+class=com.sun.glf.snippets.TextLayerControls
+BackgroundColor=ffffffff
+HAdjust=0.0
+RotationAngle=0.0
+Size=600 400
+TextAlignment=Justify
+TextAnchor=Center
+TextColor=000000ff
+TextFile=file:res/text/textLayerControls.txt
+TextFont=French Script MT/PLAIN/30
+UseAttributedStrings=false
+VAdjust=0.0
+WrapWidth=300.0

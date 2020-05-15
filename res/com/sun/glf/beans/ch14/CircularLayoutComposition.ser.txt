@@ -1,0 +1,8 @@
+class=com.sun.glf.demos.CircularLayoutComposition
+Text=To make further progress with the API, you will need to understand more about the three types of graphic objects. First, understanding the classes that support vector graphics in the API will prove useful to render shapes, but also other types of objects, because coordinates and coordinates transforms are used all over the API. Second, understanding the new imagin model and the sophisticated text support is necessary to evaluate what the API can do.
+BackgroundColor=000000ff
+BlockWidth=305
+ShapeMargin=5
+TextColor=ffc800ff
+TextFont=Impact MT/PLAIN/15
+TextMargin=10

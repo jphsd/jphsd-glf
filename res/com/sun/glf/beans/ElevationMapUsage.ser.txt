@@ -1,0 +1,5 @@
+class=com.sun.glf.snippets.ElevationMapUsage
+LightIntensity=2.0
+Size=180 360
+TextureColor=ffc800ff
+TextureFile=file:res/images/snippets/elevationMap.jpg

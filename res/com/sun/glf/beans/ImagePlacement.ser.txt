@@ -1,0 +1,5 @@
+class=com.sun.glf.snippets.ImagePlacement
+BackgroundColor=000000ff
+ImageFile=file:res/images/snippets/vango09.jpg
+Margins=20
+RotateAngle=0.0

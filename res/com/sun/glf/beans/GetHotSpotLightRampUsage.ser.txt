@@ -1,0 +1,8 @@
+class=com.sun.glf.snippets.GetHotSpotLightRampUsage
+Height=300
+HotSpotX=125
+HotSpotY=150
+LightColor=ffffffff
+LightIntensity=12.0
+TextureColor=ffc800ff
+Width=250

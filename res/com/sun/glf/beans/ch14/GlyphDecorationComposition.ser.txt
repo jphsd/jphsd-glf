@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.GlyphDecorationComposition
+BackgroundColor=ffcc33ff
+Glyph=33 Curlz MT/PLAIN/70
+GlyphBackground=5e Southwest Ornaments MT/PLAIN/300
+Margin=0
+SymbolFillColor=cc8a28ff
+SymbolStrokeFourColor=191932ff
+SymbolStrokeFourWidth=40.0
+SymbolStrokeOneColor=993300ff
+SymbolStrokeOneWidth=10.0
+SymbolStrokeThreeColor=654b32ff
+SymbolStrokeThreeWidth=35.0
+SymbolStrokeTwoColor=ffc800ff
+SymbolStrokeTwoWidth=25.0

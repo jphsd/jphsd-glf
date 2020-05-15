@@ -1,0 +1,16 @@
+class=com.sun.glf.demos.SphereComposition
+BackgroundColor=7f7f7f00
+BlackInterval=1.0
+HighlightColor=ffffffff
+HighlightInterval=1.0
+Margin=50
+MidtoneColor=ffff00ff
+MidtoneInterval=2.0
+ShadowBlurRadius=6
+ShadowColor=800000ff
+ShadowInterval=2.0
+ShadowOffset=0 18
+ShadowScaleX=0.9
+ShadowScaleY=0.25
+SphereShadowColor=0000003b
+SphereSize=100

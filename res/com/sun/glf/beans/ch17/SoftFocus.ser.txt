@@ -1,0 +1,11 @@
+class=com.sun.glf.demos.gallery.SoftFocus
+Alpha=0.5
+BackgroundColor=ffffffff
+BlurRadius=5
+BottomBorderColor=656532ff
+BottomBorderWidth=10.0
+ImageFile=file:res/images/misc/romainBigSmile.jpg
+Margin=6
+TopBorderDarkColor=333300ff
+TopBorderLightColor=feffb2ff
+TopBorderWidth=1.0

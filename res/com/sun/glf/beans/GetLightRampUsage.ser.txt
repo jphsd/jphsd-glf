@@ -1,0 +1,6 @@
+class=com.sun.glf.snippets.GetLightRampUsage
+Height=300
+LightColor=ffffffff
+LightIntensity=12.0
+TextureColor=ffc800ff
+Width=250

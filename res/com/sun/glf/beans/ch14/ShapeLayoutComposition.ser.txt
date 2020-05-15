@@ -1,0 +1,14 @@
+class=com.sun.glf.demos.ShapeLayoutComposition
+BackgroundColor=993200ff
+BlockWidth=325
+ColorOne=ffc800ff
+ColorTwo=000000ff
+DecoBeanFile=file:res/com/sun/glf/beans/ch14/GlyphDecorationComposition.ser.txt
+DecoFont=Curlz MT/PLAIN/70
+ShapeMargin=20
+TextFont=Impact MT/PLAIN/15
+TextFour=Finally, when you understand the different aspects of the API, you may decide to write a higher level API that will match your application needs more closely. The Java 2D API is very generic. It is also low level and this is why you may write something equivalent to the GLF to create a higher programming model.|Another thing you can do is to leverage the very extensible design of the API and add your own types of Paint, Stroke or Composite, for example.
+TextMargin=5
+TextOne=1 In order to start quickly with the Java 2D API, you need to look at the rendering model first: the Graphics2D class, the three types of graphic objects, images, text and shapes, and the rendering context attributes. Understanding those well will make it a lot easier.
+TextThree=The third step consists in understanding the rendering context attributes well. They control different aspects of the rendering process and they let you decide between the many rendering options. For example, the Composite attributes defines how what you draw blends with where you draw.
+TextTwo=To make further progress with the API, you will need to understand more about the three types of graphic objects. First, understanding the classes that support vector graphics in the API will prove useful to render shapes, but also other types of objects, because coordinates and coordinates transforms are used all over the API. Second, understanding the new imagin model and the sophisticated text support is necessary to evaluate what the API can do.

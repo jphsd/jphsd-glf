@@ -1,0 +1,11 @@
+class=com.sun.glf.demos.TextRecessedShadowComposition
+Label=GO!
+LabelColor=9999ffff
+LabelFont=Impact MT/BOLD/110
+Margin=20
+RimDarkColor=000000ff
+RimLightColor=ffffffff
+RimWidth=1.0
+ShadowBlurRadius=6
+ShadowColor=00000080
+ShadowOffset=10 10

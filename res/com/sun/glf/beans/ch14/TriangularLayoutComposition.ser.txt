@@ -1,0 +1,10 @@
+class=com.sun.glf.demos.TriangularLayoutComposition
+BackgroundColor=ffc800ff
+BlockWidth=305
+ShapeMargin=5
+ShapeStrokeWidth=2
+Text=1 In order to start quickly with the Java 2D API, you need to look at the rendering model first: the Graphics2D class, the three types of graphic objects, images, text and shapes, and the rendering context attributes. Understanding those well will make it a lot easier.
+TextColor=000000ff
+TextFont=Impact MT/PLAIN/15
+TextMargin=10
+TipOnTop=true

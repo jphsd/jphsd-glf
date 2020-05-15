@@ -1,0 +1,11 @@
+class=com.sun.glf.snippets.ToneAdjustmentOpUsage
+ImageFile=file:res/images/snippets/vango09.jpg
+Interval1=4.0
+Interval2=2.0
+Interval3=2.0
+Interval4=2.0
+Tone1=000000ff
+Tone2=800000ff
+Tone3=ff9933ff
+Tone4=ffff33ff
+Tone5=ffffffff
