@@ -27,7 +27,7 @@ The apps have a demo harness to run them from that's invoked with:
 
     $ java -cp target/jphsd-glf-1.0.jar DemoRunner
 
-The runner makes use of a shell script (Unix/Wondows), *runsnippet*, to launch the apps into their own process space.
+The runner makes use of a shell script (Unix/Windows), *runsnippet*, to launch the apps into their own process space.
 
 See the original README_GFL_CD.TXT for more details.
 
