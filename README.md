@@ -21,9 +21,9 @@ See the original readme.txt for more details.
 
 ## Book version
 
-This adds the snippets, demos and gallery apps, and other assets from the CD-ROM that accompanied book **Java 2D API Graphics**.
+This adds the snippets, demos and gallery apps, and other assets from the CD-ROM that accompanied Hardy's book **Java 2D API Graphics**, Prentice Hall 2000 (ISBN 0-13-014266-2).
 
-The apps have a demo harness to run them from that's invoked with
+The apps have a demo harness to run them from that's invoked with:
 
     $ java -cp target/jphsd-glf-1.0.jar DemoRunner
 
