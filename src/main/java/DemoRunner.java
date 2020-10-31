@@ -128,7 +128,7 @@ public class DemoRunner {
             final String demoStr = demo.toString();
 
             try {
-              String cmd = snippetExec + " " + demoStr + " " + demo.params;
+              String cmd = "./" + snippetExec + " " + demoStr + " " + demo.params;
               System.out.println(cmd);
               final Process proc = Runtime.getRuntime().exec(cmd);
               Thread thread = new Thread() {
